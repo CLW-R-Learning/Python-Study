@@ -17,3 +17,7 @@
 
 * ： **【】**
 *         
+
+
+An Introduction to Statistics with Python：
+http://work.thaslwanter.at/Stats/html/index.html
