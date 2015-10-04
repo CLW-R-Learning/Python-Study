@@ -1,7 +1,7 @@
 ## Week1
 
-Jason:
+Jason: 2.1.4 pip/conda; %run/import; 
 
-Sanly:
+Sanly: %; np.array-Amat[0]/Amat[0:1];
 
-Oracle:
+Oracle: p.30 __init__.py;
