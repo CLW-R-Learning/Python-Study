@@ -6,7 +6,7 @@
 
 * 10/25： **【Introdution to Statistics with Python】** *Chapter 5.2 - 5.5*
 
-* ： **【】**
+* 11/1： **【Introdution to Statistics with Python】** *Chapter 6*
 *          
 
 * ： **【】**
