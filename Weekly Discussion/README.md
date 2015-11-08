@@ -12,7 +12,6 @@ Oracle: p.30 __init__.py;
 * 4.%run: 跑出結果->ipython; %import:先存檔在import->python
 * 5. np.array-Amat[0]/Amat[0:1]: Usages between ‘:’ and ‘::’ view p.34
 
+## 11/8
 
-
-
-
+Oracle: Quantile regression
