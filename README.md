@@ -8,10 +8,9 @@
 
 * 11/8 ： **【Introdution to Statistics with Python】** *Chapter 6, 7*
 
-* 11/14： **【Introdution to Statistics with Python】** *Chapter 8*         
+* 11/16： **【Introdution to Statistics with Python】** *Chapter 8*         
 
-* ： **【】**
-*         
+* 11/24： **【Introdution to Statistics with Python】** *Chapter 9,10*         
 
 
 An Introduction to Statistics with Python：
