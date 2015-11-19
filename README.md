@@ -15,3 +15,9 @@
 
 An Introduction to Statistics with Python：
 http://work.thaslwanter.at/Stats/html/index.html
+
+
+NumPy↔R:
+http://mathesaurus.sourceforge.net/r-numpy.html
+http://hyperpolyglot.org/numerical-analysis
+
