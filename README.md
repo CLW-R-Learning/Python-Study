@@ -12,6 +12,7 @@
 
 * 11/24： **【Introdution to Statistics with Python】** *Chapter 9,10*         
 
+* 11/30： **【Introdution to Statistics with Python】** *Chapter 11, 12.2*         
 
 An Introduction to Statistics with Python：
 http://work.thaslwanter.at/Stats/html/index.html
