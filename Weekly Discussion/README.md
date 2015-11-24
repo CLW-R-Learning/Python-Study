@@ -16,4 +16,7 @@ Oracle: p.30 __init__.py;
 
 Oracle: Quantile regression
 
+## 11/24
 
+p.137 kmf.fit(T[˜ix], E[˜ix], label='control')
+* "~" → "-" in R?
