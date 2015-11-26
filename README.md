@@ -23,5 +23,5 @@ http://mathesaurus.sourceforge.net/r-numpy.html
 NumPy↔R2:
 http://hyperpolyglot.org/numerical-analysis
 
-
-hello world
+Matplotlib,pandas cheat sheet:
+https://drive.google.com/folderview?id=0ByIrJAE4KMTtaGhRcXkxNHhmY2M
