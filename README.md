@@ -17,9 +17,12 @@
 An Introduction to Statistics with Python：
 http://work.thaslwanter.at/Stats/html/index.html
 
+* Future topic
+  Bayesian
 
 NumPy↔R1:
 http://mathesaurus.sourceforge.net/r-numpy.html
+
 NumPy↔R2:
 http://hyperpolyglot.org/numerical-analysis
 
