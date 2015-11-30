@@ -17,8 +17,7 @@
 An Introduction to Statistics with Python：
 http://work.thaslwanter.at/Stats/html/index.html
 
-* Future topic
-  Bayesian
+* Future topic: Bayesian
 
 NumPy↔R1:
 http://mathesaurus.sourceforge.net/r-numpy.html
