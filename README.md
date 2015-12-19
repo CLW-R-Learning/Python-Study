@@ -16,7 +16,7 @@
 
 * 12/8 ： **【Introdution to Statistics with Python】** *Chapter 12.3 - 12.4*         
 
-* 12/15：  **【Introdution to Statistics with Python】** *Chapter 12.5 - 12.9*    
+* 12/19：  **【Introdution to Statistics with Python】** *Chapter 12.5 - 12.9*    
 
 *  ** ---------- MERRY CHRISTMAS & A HAPPY NEW YEAR ---------- **
 
