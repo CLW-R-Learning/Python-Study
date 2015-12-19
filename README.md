@@ -18,6 +18,13 @@
 
 * 12/15：  **【Introdution to Statistics with Python】** *Chapter 12.5 - 12.9*    
 
+*  ** ---------- MERRY CHRISTMAS & A HAPPY NEW YEAR ---------- **
+
+* 1/11：  **【Introdution to Statistics with Python】** *Chapter 13*    
+
+* 1/17：  **【Introdution to Statistics with Python】** *Chapter 14*    
+
+* 1/31：  **【Introdution to Statistics with Python】** *Chapter 15*    
 
 An Introduction to Statistics with Python：
 http://work.thaslwanter.at/Stats/html/index.html
