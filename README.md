@@ -39,3 +39,5 @@ http://hyperpolyglot.org/numerical-analysis
 
 Matplotlib,pandas cheat sheet:
 https://drive.google.com/folderview?id=0ByIrJAE4KMTtaGhRcXkxNHhmY2M
+
+StackOverflow api register: http://stackapps.com/apps/oauth/register
