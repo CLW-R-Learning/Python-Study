@@ -1,0 +1,10 @@
+3/12
+整理data>>
+list(body_txt, body_code)
+scale, tag, title, creation_date, 
+
+'body', 'creation_date', 'id', 'last_activity_date', 'last_edit_date', 'owner', 'owner_id',
+'owner_info', 'partial', 'question', 'question_id', 'revisions', 'score', 'site', 'transfer', 'url'
+
+建資料庫>>
+
